@@ -1,0 +1,21 @@
+Stage ID,Stage Name,Parent IDs,Number of Tasks,Submission Time,Completion Time
+0,mapToPair at MatchingRoutesShapeGPS.java:111,[],120,1520881504400,1520881517898
+1,mapToPair at MatchingRoutesShapeGPS.java:122,[],120,1520881504427,1520881518894
+2,union at MatchingRoutesShapeGPS.java:232,"[0, 1]",240,1520881519015,1520881533480
+3,saveAsTextFile at MatchingRoutesShapeGPS.java:86,[2],120,1520881533596,1520881659805
+4,mapToPair at MatchingRoutesShapeGPS.java:111,[],120,1520881661379,1520881664060
+5,mapToPair at MatchingRoutesShapeGPS.java:122,[],120,1520881661429,1520881664601
+6,union at MatchingRoutesShapeGPS.java:232,"[5, 4]",240,1520881664655,1520881682602
+7,saveAsTextFile at MatchingRoutesShapeGPS.java:86,[6],120,1520881682708,1520881796495
+8,mapToPair at MatchingRoutesShapeGPS.java:111,[],120,1520881797908,1520881801084
+9,mapToPair at MatchingRoutesShapeGPS.java:122,[],120,1520881797919,1520881801604
+10,union at MatchingRoutesShapeGPS.java:232,"[9, 8]",240,1520881801661,1520881812702
+11,saveAsTextFile at MatchingRoutesShapeGPS.java:86,[10],120,1520881812773,1520881937324
+12,mapToPair at MatchingRoutesShapeGPS.java:111,[],120,1520881938696,1520881941201
+13,mapToPair at MatchingRoutesShapeGPS.java:122,[],120,1520881938746,1520881941868
+14,union at MatchingRoutesShapeGPS.java:232,"[12, 13]",240,1520881941908,1520881957015
+15,saveAsTextFile at MatchingRoutesShapeGPS.java:86,[14],120,1520881957087,1520882055165
+16,mapToPair at MatchingRoutesShapeGPS.java:111,[],120,1520882056568,1520882058950
+17,mapToPair at MatchingRoutesShapeGPS.java:122,[],120,1520882056589,1520882059526
+18,union at MatchingRoutesShapeGPS.java:232,"[16, 17]",240,1520882059554,1520882064399
+19,saveAsTextFile at MatchingRoutesShapeGPS.java:86,[18],120,1520882064440,1520882159709
